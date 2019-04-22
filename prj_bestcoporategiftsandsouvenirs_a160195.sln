@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_bestcorporategiftsandsouvenirs_a160195", "PRJ_BESTCORPORATEGIFTSANDSOUVENIRS_A160195\prj_bestcorporategiftsandsouvenirs_a160195.vbproj", "{BC604305-A305-4E37-BEE8-DB69F6ED453B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_BestCorporateGiftsAndSouvenirs", "Setup_BestCorporateGiftsAndSouvenirs\Setup_BestCorporateGiftsAndSouvenirs.vdproj", "{C0D0718A-67CC-4FA2-A0C3-83456A7113E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC604305-A305-4E37-BEE8-DB69F6ED453B}.Debug|x86.ActiveCfg = Debug|x86
+		{BC604305-A305-4E37-BEE8-DB69F6ED453B}.Debug|x86.Build.0 = Debug|x86
+		{BC604305-A305-4E37-BEE8-DB69F6ED453B}.Release|x86.ActiveCfg = Release|x86
+		{BC604305-A305-4E37-BEE8-DB69F6ED453B}.Release|x86.Build.0 = Release|x86
+		{C0D0718A-67CC-4FA2-A0C3-83456A7113E8}.Debug|x86.ActiveCfg = Debug
+		{C0D0718A-67CC-4FA2-A0C3-83456A7113E8}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
